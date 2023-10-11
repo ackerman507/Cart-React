@@ -4,7 +4,7 @@ Este es un proyecto de ejemplo para crear una tienda en línea simple utilizando
 
 ## Capturas de Pantalla
 
-![Pantalla de Productos](videoMuestra.gif)
+![Pantalla de Productos](./videoMuestra.gif)
 
 ## Tecnologías Utilizadas
 
